@@ -1,6 +1,6 @@
 # Terceiro MeetUp - Dev Seridó
 
-![Imagem 1º MeetUp](img/meetup2.png)
+![Imagem 1º MeetUp](img/meetup3.png)
 
 - [x] Quando aconteceu?
 
